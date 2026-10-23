@@ -142,7 +142,3 @@ button3.pack(pady=50)
 
 
 window.mainloop()
-button3.pack(pady=50)
-
-
-window.mainloop()
