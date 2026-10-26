@@ -15,4 +15,4 @@ Make sure you have Python installed and venv, then install the required dependen
 pip install openmeteo-requests 
 
 
-UPDATES REGRADING LOWERING THE LINES OF CODE ( WITH CLASSES) AND ADDING MORE FEATURES ARE COMING.
+UPDATES REGRADING LOWERING THE LINES OF CODE (WITH CLASSES) AND ADDING MORE FEATURES ARE COMING.
